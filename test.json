@@ -1,0 +1,26 @@
+{
+    "number": 12,
+    "string": "×Ö·û´®1",
+    "obj2": {
+        "name": "ÄãºÃ",
+        "obj3": {
+            "test": "test"
+        }
+    },
+    "array": [
+        true,
+        false,
+        { },
+        null,
+        "²âÊÔ",
+        -0.52e-2,
+        {
+
+        },
+        {
+            "subobj": { 
+                "name" : "o"
+            }
+        }
+    ]
+}
